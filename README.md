@@ -18,6 +18,6 @@
         Button 4 is used to reset the stopwatch. Button 5 is used for lap purposes.
         HAL_GETTICK() always increments its value in milliseconds until the microcontroller powers off
 ## working 
-![Working setup](VID20261021002959 (1).MP4)   
+please check the video to see how it work
 
         
